@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"standoff 2 mod play 1","desc":"description1 ser","photo":"https://iili.io/HLOXwEN.webp"},
+  {"title":"standoff 2 mod play 2","desc":"description2 ser","photo":"https://iili.io/HLOhHGV.webp"},
+  {"title":"standoff 2 mod play 3","desc":"description3 ser","photo":"https://iili.io/HLOhjwb.webp"},
+  {"title":"standoff 2 mod play 4","desc":"description4 ser","photo":"https://iili.io/HLOj3il.webp"},
+  {"title":"standoff 2 mod play 5","desc":"description5 ser","photo":"https://iili.io/HLOjIxj.webp"},
+  {"title":"standoff 2 mod play 6","desc":"description6 ser","photo":"https://iili.io/HLOj4gS.webp"},
+  {"title":"standoff 2 mod play 7","desc":"description7 ser","photo":"https://iili.io/HLOwz7t.webp"},
+  {"title":"standoff 2 mod play  8","desc":"description8 ser","photo":"https://iili.io/HLOwZvt.webp"}
    ]
  
 }
